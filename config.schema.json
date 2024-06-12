@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "HomebridgeSmartThingsAC",
+  "pluginAlias": "HomebridgeSmartThingsAircon",
   "pluginType": "platform",
   "singular": true,
   "schema": {
