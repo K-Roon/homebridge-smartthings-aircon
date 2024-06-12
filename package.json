@@ -1,7 +1,7 @@
 {
   "displayName": "Homebridge Smartthings AirConditioner",
   "name": "homebridge-smartthings-aircon",
-  "version": "1.0.9",
+  "version": "0.0.1",
   "description": "스마트싱스를 통해 연결된 당신의 에어컨을 Apple Home에서 제어해 보세요.",
   "license": "Apache-2.0",
   "repository": {
